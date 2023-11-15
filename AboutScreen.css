@@ -1,0 +1,11 @@
+#title{
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+}
+img{
+    position: fixed;
+    left: 100px;
+    top: 250px;
+}
