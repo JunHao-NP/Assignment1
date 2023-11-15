@@ -1,0 +1,36 @@
+#header{
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    background-color: #9c9c9c9d;
+    height: 140px;
+    vertical-align: top;
+    margin-top: 0px;
+    font-size: 50px;
+    border-radius: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+  }
+  @media (min-width: 500px) {
+        .container{
+    display: flex;
+    flex: row;
+  }
+}
+.nav-pannel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 725px;
+    top: 100px;
+}
+.page-link{
+    font-size: 15px;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
