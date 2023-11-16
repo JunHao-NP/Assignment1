@@ -3,16 +3,20 @@
     left: 5px;
     right: 5px;
     text-align: center;
-    background-color: #9c9c9c9d;
+    background-color: #ffffff;
     height: 140px;
     vertical-align: top;
     margin-top: 0px;
     font-size: 50px;
-    border-radius: 10px;
 }
 body {
     font-family: Arial, sans-serif;
-    background: #b9b9b9;
+    background-image: url("https://wallpapers.com/images/hd/imagine-dragons-photoshoot-aixofi4hf7dd7blj.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   @media (min-width: 500px) {
         .container{
@@ -71,3 +75,11 @@ body {
 .content{
     background-color: black;
 }
+main{
+    background-image: url("https://wallpapers.com/images/hd/imagine-dragons-photoshoot-aixofi4hf7dd7blj.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
