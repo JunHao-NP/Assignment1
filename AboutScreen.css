@@ -12,7 +12,7 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background: #ffffff;
+    background: #b9b9b9;
   }
   @media (min-width: 500px) {
         .container{
@@ -41,7 +41,7 @@ body {
     padding: 40px;
     max-width: 80%;
     height: 230px;
-    background-color: rgb(155, 155, 155);
+    /*background-color: rgb(155, 155, 155);*/
     border: 10px blue;
     border-width: 3px;
 }
@@ -58,4 +58,16 @@ body {
     padding: 60px;
     color: black;
     font-weight: bold;
+}
+.Awards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 120px;
+    top: 600px;
+    max-width: 75%;
+}
+.content{
+    background-color: black;
 }

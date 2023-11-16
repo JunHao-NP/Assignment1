@@ -63,6 +63,11 @@ Credits:
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
-The photos used in this site were obtained from ...
+
+Photos Used:
+About Page Image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-album-reviews%2Fimagine-dragons-mercury-act-2-1377195%2F&psig=AOvVaw0PW-lCgjdoGdyIPOV6jWEr&ust=1700198867949000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCRs73kx4IDFQAAAAAdAAAAABAE 
+
+
 Acknowledgements
 I received inspiration for this project from X
+Social media buttons inspiration: https://www.youtube.com/watch?v=9ZCTY_CJtqs 
