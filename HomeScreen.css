@@ -3,14 +3,13 @@
     left: 5px;
     right: 5px;
     text-align: center;
-    background-color: #9c9c9c9d;
-    height: 140px;
+    background-color: #ffffff;
+    height: 120px;
     vertical-align: top;
     margin-top: 0px;
     font-size: 50px;
-    border-radius: 10px;
 }
-body{
+body {
     font-family: Arial, sans-serif;
     background: #ffffff;
   }
@@ -25,12 +24,12 @@ body{
     align-items: center;
     justify-content: center;
     position: fixed;
-    left: 510px;
+    left: 660px;
     top: 50px;
 }
 .page-link{
-    font-size: 15px;
-    padding: 60px;
+    font-size: 25px;
+    padding: 30px;
     color: black;
     font-weight: bold;
 }
