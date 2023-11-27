@@ -6,30 +6,50 @@
     background-color: #ffffff;
     height: 120px;
     vertical-align: top;
-    margin-top: 0px;
+    margin-top: -20px;
     font-size: 50px;
+    font-family: 'Oswald', sans-serif;
 }
 .nav-pannel {
     display: flex;
     align-items: center;
     justify-content: center;
     position: fixed;
-    left: 660px;
+    left: 700px;
     top: 50px;
 }
 .page-link{
     font-size: 25px;
     padding: 30px;
     color: black;
-    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
 }
 body {
     font-family: Arial, sans-serif;
     background: #ffffff;
-  }
-  @media (min-width: 500px) {
-        .container{
+}
+.images-container {
     display: flex;
-    flex: row;
-  }
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 20px;
+}
+
+.albumn {
+    margin: 10px;
+    text-align: center;
+}
+
+.albumn img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.image-caption {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #555;
+    font-family: 'Oswald', sans-serif;
 }

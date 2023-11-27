@@ -13,12 +13,6 @@ body {
     font-family: Arial, sans-serif;
     background: #ffffff;
   }
-  @media (min-width: 500px) {
-        .container{
-    display: flex;
-    flex: row;
-  }
-}
 .nav-pannel {
     display: flex;
     align-items: center;

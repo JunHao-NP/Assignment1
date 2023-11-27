@@ -10,6 +10,7 @@
     font-size: 50px;
 }
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
     background-image: url("https://wallpapers.com/images/hd/imagine-dragons-photoshoot-aixofi4hf7dd7blj.jpg");
     min-height: 500px;
@@ -20,13 +21,7 @@ body {
     overflow:scroll;
     overflow-x:hidden;
   }
-  @media (min-width: 500px) {
-        .container{
-    display: flex;
-    flex: row;
-  }
-}
-.description {
+/*.description {
     display: flex;
     position: fixed;
     left: 75px;
@@ -41,17 +36,62 @@ body {
     max-width: 100%;
     max-height:100%;
     padding: 20px;
+    flex-basis: auto;
+    background-color: #fa0000;
 }
   
 .text {
     font-size: 20px;
     padding: 40px;
     height: 230px;
-    /*background-color: rgb(155, 155, 155);*/
     border: 10px blue;
     border-width: 3px;
     align-items: center;
-    flex: auto;
+    flex-basis: auto;
+    background-color: #00fa21;
+}
+.text2 {
+    font-size: 20px;
+    padding: 40px;
+    height: 230px;
+    border: 10px blue;
+    border-width: 3px;
+    align-items: center;
+    flex-basis: auto;
+    background-color: #00c8fa;
+}*/
+.description {
+    display: flex;
+    position: fixed;
+    left: 75px;
+    top: 190px;
+    max-width: 90%;
+    height: 900px;
+    background-color: #ffffffbe;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.image {
+    max-width: 100%;
+    max-height: 100%;
+    padding: 20px;
+    flex-basis: auto;
+    background-color: #fa0000;
+}
+
+.text, .text2 {
+    font-size: 20px;
+    padding: 40px;
+    height: 230px;
+    box-sizing: border-box;
+    border: 3px solid blue;
+    align-items: center;
+    flex-basis: auto;
+}
+
+.text2 {
+    background-color: #00c8fa;
 }
 .nav-pannel {
     display: flex;
