@@ -67,6 +67,7 @@ Media
 Photos Used:
 About Page Image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-album-reviews%2Fimagine-dragons-mercury-act-2-1377195%2F&psig=AOvVaw0PW-lCgjdoGdyIPOV6jWEr&ust=1700198867949000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCRs73kx4IDFQAAAAAdAAAAABAE 
 
+Music Page Images: https://www.imaginedragonsmusic.com/#/ 
 
 Acknowledgements
 I received inspiration for this project from X
