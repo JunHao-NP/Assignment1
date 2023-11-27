@@ -61,3 +61,7 @@ body {
     color: #ffffff;
     font-family: 'Oswald', sans-serif;
 }
+.social{
+    display: flex;
+    flex-direction: row;
+}

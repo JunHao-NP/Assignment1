@@ -31,7 +31,4 @@ body {
 .social{
     display: flex;
     flex-direction: row;
-    padding: 30px;
-    margin-left: 0px;
-    margin-top: 20px;
 }
