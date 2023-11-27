@@ -64,4 +64,5 @@ body {
 .social{
     display: flex;
     flex-direction: row;
+    padding-left: 10px;
 }
