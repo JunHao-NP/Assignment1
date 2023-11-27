@@ -33,3 +33,14 @@ body {
     flex: row;
   }
 }
+ul {
+    list-style-type: none;
+  }
+.SocialMediaLinks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 660px;
+    top: 50px;
+  }
