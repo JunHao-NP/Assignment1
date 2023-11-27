@@ -28,14 +28,10 @@ body {
     font-family: Arial, sans-serif;
     background: #ffffff;
   }
-ul {
-    list-style-type: none;
-  }
-.SocialMediaLinks{
+.social{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    position: fixed;
-    left: 660px;
-    top: 50px;
-  }
+    flex-direction: row;
+    padding: 30px;
+    margin-left: 0px;
+    margin-top: 20px;
+}

@@ -37,7 +37,9 @@ body {
     padding: 10px;
 }
 .images-container{
-    background-color: #000000;
+    background-image: url("https://wallpapers.com/images/hd/imagine-dragons-2012-promotional-7mx9n0lwhcxg0d6q.jpg");
+    height: 720px;
+    border-radius: 12px;
 }
 .albumn {
     margin: 10px;
@@ -55,7 +57,7 @@ body {
 
 .image-caption {
     margin-top: 5px;
-    font-size: 14px;
+    font-size: 17px;
     color: #ffffff;
     font-family: 'Oswald', sans-serif;
 }
