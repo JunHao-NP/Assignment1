@@ -28,3 +28,8 @@ body {
     font-family: Arial, sans-serif;
     background: #ffffff;
 }
+.social{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+}
