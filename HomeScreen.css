@@ -1,29 +1,30 @@
 #header{
-    position: fixed;
+    /*position: fixed;
     left: 5px;
-    right: 5px;
+    right: 5px;*/
     text-align: center;
     background-color: #ffffff;
-    height: 120px;
+    height: 30px;
     vertical-align: top;
     margin-top: 0px;
     font-size: 50px;
+    font-family: 'Oswald', sans-serif;
 }
-body {
-    font-family: Arial, sans-serif;
-    background: #ffffff;
-  }
 .nav-pannel {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: fixed;
-    left: 660px;
-    top: 50px;
+    /*position: fixed;
+    left: 700px;
+    top: 50px;*/
 }
 .page-link{
     font-size: 25px;
     padding: 30px;
     color: black;
-    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
 }
