@@ -38,6 +38,10 @@ body {
 }
 .images-container{
     background-image: url("https://wallpapers.com/images/hd/imagine-dragons-2012-promotional-7mx9n0lwhcxg0d6q.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 720px;
     border-radius: 12px;
 }
@@ -65,4 +69,10 @@ body {
     display: flex;
     flex-direction: row;
     padding-left: 10px;
+}
+.header2{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
 }
