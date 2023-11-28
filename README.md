@@ -70,5 +70,9 @@ About Page Image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rollings
 Music Page Images: https://www.imaginedragonsmusic.com/#/ 
 
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration for this project from:
 Social media buttons inspiration: https://www.youtube.com/watch?v=9ZCTY_CJtqs 
+Darkening Image: https://www.geeksforgeeks.org/how-to-darken-an-image-using-css/ 
+CSS Tools Demo: https://www.w3schools.com/cssref/playdemo.php?filename=playcss_margin-left
+Wrap Function: https://www.w3docs.com/snippets/css/how-to-wrap-words-in-a-div-tag-with-css.html#:~:text=If%20you've%20faced%20the,need%20the%20word%2Dwrap%20property. 
+Scaling Screen Size: https://stackoverflow.com/questions/35249074/how-do-i-scale-the-size-of-the-elements-in-my-html-according-to-screen-size 

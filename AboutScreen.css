@@ -25,83 +25,54 @@ body {
     color: black;
     font-family: 'Oswald', sans-serif;
 }
-/*.description {
+.social{
     display: flex;
-    position: fixed;
-    left: 75px;
-    top: 190px;
-    max-width: 90%;
-    height: 900px;
-    background-color: #ffffffbe;
     flex-direction: row;
-    flex-wrap: wrap;
+    padding-left: 10px;
 }
-.image{
-    max-width: 100%;
-    max-height:100%;
-    padding: 20px;
-    flex-basis: auto;
-    background-color: #fa0000;
-}
-  
-.text {
-    font-size: 20px;
-    padding: 40px;
-    height: 230px;
-    border: 10px blue;
-    border-width: 3px;
-    align-items: center;
-    flex-basis: auto;
-    background-color: #00fa21;
-}
-.text2 {
-    font-size: 20px;
-    padding: 40px;
-    height: 230px;
-    border: 10px blue;
-    border-width: 3px;
-    align-items: center;
-    flex-basis: auto;
-    background-color: #00c8fa;
-}
-.description {
-    display: flex;
-    position: fixed;
-    left: 75px;
-    top: 190px;
-    max-width: 90%;
-    height: 900px;
-    background-color: #ffffffbe;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.image {
-    max-width: 100%;
-    max-height: 100%;
-    padding: 20px;
-    flex-basis: auto;
-    background-color: #fa0000;
-}
-
-.text, .text2 {
-    font-size: 20px;
-    padding: 40px;
-    height: 230px;
-    box-sizing: border-box;
-    border: 3px solid blue;
-    align-items: center;
-    flex-basis: auto;
-}
-
-.text2 {
-    background-color: #00c8fa;
-}
-main{
+.content-container{
     background-image: url("https://wallpapers.com/images/hd/imagine-dragons-photoshoot-aixofi4hf7dd7blj.jpg");
-    min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }*/
+    border-radius: 12px;
+    white-space: normal;
+}
+.element-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.element {
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+    /*background-color: blue;*/
+    text-align: left;
+    /*justify-content: center;*/
+}
+.description{
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+    /*background-color: rgb(0, 255, 255);*/
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 12px;
+}
+.element img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+.text1{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+}
