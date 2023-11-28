@@ -20,7 +20,7 @@ As a user type, I want to be able to learn more about the band when I navigate t
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
 WireFrame:
-https://xd.adobe.com/view/44f93ff9-0e93-4241-8c0a-ef9a08e9655d-11aa/ 
+https://xd.adobe.com/view/b72541fe-675f-4c7b-868a-d65721767c32-e276/ 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -76,3 +76,4 @@ Darkening Image: https://www.geeksforgeeks.org/how-to-darken-an-image-using-css/
 CSS Tools Demo: https://www.w3schools.com/cssref/playdemo.php?filename=playcss_margin-left
 Wrap Function: https://www.w3docs.com/snippets/css/how-to-wrap-words-in-a-div-tag-with-css.html#:~:text=If%20you've%20faced%20the,need%20the%20word%2Dwrap%20property. 
 Scaling Screen Size: https://stackoverflow.com/questions/35249074/how-do-i-scale-the-size-of-the-elements-in-my-html-according-to-screen-size 
+Set the opacity only to background color not on the text in CSS: https://www.geeksforgeeks.org/set-the-opacity-only-to-background-color-not-on-the-text-in-css/ 
