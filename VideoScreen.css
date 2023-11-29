@@ -36,10 +36,14 @@ body {
     padding: 10px;
 }
 .videos-container{
-    background-color: beige;
     height: 720px;
     border-radius: 12px;
     margin: 20px;
+    background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .albumn {
     margin: 10px;
