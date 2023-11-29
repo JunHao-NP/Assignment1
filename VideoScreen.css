@@ -1,7 +1,4 @@
 #header{
-    /*position: fixed;
-    left: 5px;
-    right: 5px;*/
     text-align: center;
     background-color: #ffffff;
     height: 30px;
@@ -14,9 +11,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /*position: fixed;
-    left: 700px;
-    top: 50px;*/
 }
 .page-link{
     font-size: 25px;
@@ -32,4 +26,34 @@ body {
     display: flex;
     flex-direction: row;
     padding-left: 10px;
+}
+.videos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+.videos-container{
+    background-color: beige;
+    height: 720px;
+    border-radius: 12px;
+    margin: 20px;
+}
+.albumn {
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+}
+.albumn iframe {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+.video-caption {
+    margin-top: 5px;
+    font-size: 17px;
+    color: #000000;
+    font-family: 'Oswald', sans-serif;
 }
