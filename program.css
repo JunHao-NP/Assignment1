@@ -1,0 +1,159 @@
+#header{
+    text-align: center;
+    background-color: #ffffff;
+    height: 30px;
+    vertical-align: top;
+    margin-top: 0px;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+}
+.nav-pannel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*position: fixed;
+    left: 700px;
+    top: 50px;*/
+}
+.page-link{
+    font-size: 25px;
+    padding: 30px;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+}
+
+
+/*About Screen*/
+.content-container{
+    background-image: url("https://wallpapers.com/images/hd/imagine-dragons-photoshoot-aixofi4hf7dd7blj.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 12px;
+    white-space: normal;
+}
+.element-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.element {
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+    text-align: left;
+}
+.description{
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 12px;
+    background-color: rgba(221, 221, 221, 0.5);
+}
+.element img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+.text{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    background-color: rgba(221, 221, 221, 0.5);
+    margin: 10px;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+/*Video Screen*/
+.videos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+.videos-container{
+    height: 720px;
+    border-radius: 12px;
+    margin: 20px;
+    background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.albumn {
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+}
+.albumn iframe {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+.video-caption {
+    margin-top: 5px;
+    font-size: 17px;
+    color: #000000;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*Music Screen*/
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+.images-container{
+    background-image: url("https://wallpapers.com/images/hd/imagine-dragons-2012-promotional-7mx9n0lwhcxg0d6q.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    border-radius: 12px;
+}
+.albumn img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.image-caption {
+    margin-top: 5px;
+    font-size: 17px;
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+}
+.header2{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*Index Page*/
