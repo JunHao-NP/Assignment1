@@ -30,6 +30,7 @@ body {
 .videos{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     margin: 20px;
@@ -38,7 +39,7 @@ body {
 .videos-container{
     border-radius: 12px;
     margin: 20px;
-    background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg");
+    background-image: url("https://cutewallpaper.org/23/wallpaper-hd-nature-night/317799579.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -55,10 +56,15 @@ body {
     border-radius: 8px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
 }
+.showcase iframe{
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
 .video-caption {
     margin-top: 5px;
     font-size: 17px;
-    color: #000000;
+    color: #ffffff;
     font-family: 'Oswald', sans-serif;
 }
 .showcase-container{
@@ -66,14 +72,26 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 20px;
-    padding: 10px;
+    margin: 76px;
+    padding: 45px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.morevid{
+    margin-top: 5px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
 }
 .showcase{
     margin: 10px;
-    text-align: left;
+    text-align: center;
     padding: 30px;
-    font-size: 17px;
-    color: #000000;
+    font-size: 20px;
+    color: #ffffff;
     font-family: 'Oswald', sans-serif;
+}
+.container-bgd{
+    margin: 76px;
+    padding: 45px;
+    background-color: rgba(0, 0, 0, 0.4);
 }
