@@ -36,7 +36,6 @@ body {
     padding: 10px;
 }
 .videos-container{
-    height: 720px;
     border-radius: 12px;
     margin: 20px;
     background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg");
@@ -44,6 +43,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    white-space: normal;
 }
 .albumn {
     margin: 10px;
@@ -57,6 +57,22 @@ body {
 }
 .video-caption {
     margin-top: 5px;
+    font-size: 17px;
+    color: #000000;
+    font-family: 'Oswald', sans-serif;
+}
+.showcase-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+.showcase{
+    margin: 10px;
+    text-align: left;
+    padding: 30px;
     font-size: 17px;
     color: #000000;
     font-family: 'Oswald', sans-serif;

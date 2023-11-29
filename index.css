@@ -1,7 +1,4 @@
 #header{
-    /*position: fixed;
-    left: 5px;
-    right: 5px;*/
     text-align: center;
     background-color: #ffffff;
     height: 30px;
@@ -14,9 +11,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /*position: fixed;
-    left: 700px;
-    top: 50px;*/
 }
 .page-link{
     font-size: 25px;
