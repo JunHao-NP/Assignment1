@@ -1,3 +1,7 @@
+
+<meta http-equiv="refresh" content="0; url=https://junhao-np.github.io/Assignment1/html/index.html">
+
+
 # Assignment1
 SEM2_FED_Assignment1
 Topic Chosen: Website for artists
