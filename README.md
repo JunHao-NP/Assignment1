@@ -12,15 +12,13 @@ Overview of my Project:
 This website was created to allow users to get a better understanding of the popular band, Imagine Dragons
 
 Design Process:
-This website was made for users who do not know this band that well and for people who know this band, to find out more about the band and any up coming events that are taking place
+This website was made for users who do not know this band that well and for people who know this band, to find out more about the band and any up coming events that are taking place. Newest music videos are also displayed to keep users up to date with the latest releases from the band.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 (As a user type, I want to perform an action, so that I can achieve a goal.)
 As a user type, I want to be able to find out new events the moment I visit the website.
 As a user type, I want to be able to see the videos the band has created when I navigate to the video page.
 As a user type, I want to be able to learn more about the band when I navigate to the About page.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
 WireFrame:
 https://xd.adobe.com/view/b72541fe-675f-4c7b-868a-d65721767c32-e276/ 
