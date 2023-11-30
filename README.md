@@ -23,6 +23,8 @@ In particular, as part of this section we recommend that you provide a list of U
 As a user type, I want to be able to find out new events the moment I visit the website.
 As a user type, I want to be able to see the videos the band has created when I navigate to the video page.
 As a user type, I want to be able to learn more about the band when I navigate to the About page.
+As a user type, I want to be able to listen to music in the albums I want when I am in the music page.
+As a user type, I want to be able to watch videos the band has produced when im at the website itself instead of going to a different browser.
 
 WireFrame:
 https://xd.adobe.com/view/b72541fe-675f-4c7b-868a-d65721767c32-e276/ 
@@ -33,21 +35,30 @@ Features:
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
 Feature 1 - Allows users to navigate to the bands social media accounts by clicking on the icons on the pages
+Feature 2 - Image slideshow that shows events/ new releases
+Feature 3 - Embedded videos that allow users to watch the videos on the website instead of having to navigate to youtube to watch
 ...
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Additional features to be implemented in the future:
+Store page for users to purchase items
+User input for collection of email so tha users can get updated on events
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
+Features Left to Implement:
+I could maybe make an animation for the sliding for the image slider
+I could add a feature that allows users to see average prices for tickets
+I could display apparel sold by the band 
+
+Technologies Used:
+I used some Javascript for the programming of the image slider, This is to allow me to run a loop that loops the images displayed.
+(In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.)
+
+(Testing)
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
+When I open the website, I can see the events on the image slider that displays the new events/ releases.
+When click on the albumn icon in the music page, it brings me to youtube with a full albumn of the songs
+When i click on the videos in the Video page, i can watch the videos displayed there
+The navigation bar at the top of the pages all help me to navigate through all the pages available
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 (Not Required)
 Contact form:
