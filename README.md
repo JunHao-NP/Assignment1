@@ -67,6 +67,11 @@ Credits:
 
 Content
 The text for section Y was copied from the Wikipedia article Z
+Text Used For AboutScreen was copied from 
+
+
+
+
 Media
 
 Photos Used:
@@ -79,6 +84,7 @@ I received inspiration for this project from:
 Social media buttons inspiration: https://www.youtube.com/watch?v=9ZCTY_CJtqs 
 Darkening Image: https://www.geeksforgeeks.org/how-to-darken-an-image-using-css/ 
 CSS Tools Demo: https://www.w3schools.com/cssref/playdemo.php?filename=playcss_margin-left
+Took inspiration for Image Slider: https://www.bannerbear.com/blog/how-to-create-an-image-slider-in-html-css-and-javascript/ 
 Wrap Function: https://www.w3docs.com/snippets/css/how-to-wrap-words-in-a-div-tag-with-css.html#:~:text=If%20you've%20faced%20the,need%20the%20word%2Dwrap%20property. 
 Scaling Screen Size: https://stackoverflow.com/questions/35249074/how-do-i-scale-the-size-of-the-elements-in-my-html-according-to-screen-size 
 Set the opacity only to background color not on the text in CSS: https://www.geeksforgeeks.org/set-the-opacity-only-to-background-color-not-on-the-text-in-css/ 
