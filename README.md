@@ -3,7 +3,7 @@ SEM2_FED_Assignment1
 Topic Chosen: Website for artists
 Artists Chosen: Imagine Dragons
 ---
-permalink: /index.html
+permalink: ../HTML/index.html
 ---
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
