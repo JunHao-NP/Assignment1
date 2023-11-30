@@ -49,7 +49,7 @@ Testing
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+(Not Required)
 Contact form:
 Go to the "Contact Us" page
 Try to submit the empty form and verify that an error message about the required fields appears
@@ -66,13 +66,13 @@ If this section grows too long, you may want to split it off into a separate fil
 Credits:
 
 Content
-The text for section Y was copied from the Wikipedia article Z
-Text Used For AboutScreen was copied from 
+Text Used For AboutScreen was copied from https://en.wikipedia.org/wiki/Imagine_Dragons 
 
-
-
-
-Media
+Media USed:
+https://www.youtube.com/watch?v=c_sn0sPmW8Y 
+https://www.youtube.com/watch?v=zHfIkyLh-Ew 
+https://www.youtube.com/watch?v=TO-_3tck2tg 
+https://www.youtube.com/watch?v=LvlaxcjtV9U 
 
 Photos Used:
 About Page Image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-album-reviews%2Fimagine-dragons-mercury-act-2-1377195%2F&psig=AOvVaw0PW-lCgjdoGdyIPOV6jWEr&ust=1700198867949000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCRs73kx4IDFQAAAAAdAAAAABAE 
